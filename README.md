@@ -1,5 +1,1 @@
-esse é um teste da Gi
-
-teste teste
-teste
-meu cachorro se chama pacoca
+aqui está a lista com meus primeiros exercicios em python.
